@@ -1,6 +1,10 @@
 package org.testing;
 
 public class Sample {
+	
+	private void m3() {
+		System.out.println("Dev ,method");
+	}
 
 	public static void main(String[] args) {
 		
