@@ -1,6 +1,10 @@
 package org.testing;
 
 public class Sample {
+	
+	private void m2() {
+		System.out.println("Arun method");
+	}
 
 	public static void main(String[] args) {
 		
