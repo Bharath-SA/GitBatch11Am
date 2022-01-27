@@ -4,6 +4,7 @@ public class Sample {
 
 	private void m1() {
 		System.out.println("Am method");
+		System.out.println("Amirtha method");
 	}
 
 	private void m2() {
